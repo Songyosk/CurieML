@@ -3,6 +3,8 @@ All source code and images are associated with the paper:
 
 "Machine-Learning Prediction of Curie Temperature from Chemical Compositions of Ferromagnetic Materials" 
 
+[J. Chem. Inf. Model. (2024)](https://doi.org/10.1021/acs.jcim.4c00947)
+
 By S. G. Jung, G. Jung & J. M. Cole
 
 
